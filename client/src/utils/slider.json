@@ -1,0 +1,75 @@
+[
+  {
+    "name": "GreenVista Sustainable Living Fund",
+    "price": "28,714 views",
+    "detail": "Support GreenVista, a startup dedicated to creating sustainable living solutions. Invest in our mission to build eco-friendly communities that thrive. Together, we can make a positive impact on the environment and urban living.",
+    "image": "./r1.png"
+  },
+  {
+    "name": "TechHaven Innovation Drive",
+    "price": "19,876 views",
+    "detail": "Join TechHaven's journey in shaping the future of technology. By contributing to our campaign, you're investing in cutting-edge innovations that will redefine how we interact with the digital world.",
+    "image": "./r2.png"
+  },
+  {
+    "name": "HealthHub Wellness Revolution",
+    "price": "45,218 views",
+    "detail": "Be a part of HealthHub's mission to revolutionize wellness and healthcare. Your investment will fuel the development of groundbreaking technologies that empower individuals to take control of their health journey.",
+    "image": "./r3.png"
+  },
+  {
+    "name": "UrbanEats FoodTech Expansion",
+    "price": "53,109 views",
+    "detail": "Invest in UrbanEats and be a catalyst for the next food revolution. We're bringing technology to the dining table, connecting people with unique culinary experiences. Support us in expanding our innovative foodtech solutions.",
+    "image": "./r1.png"
+  },
+  {
+    "name": "EduPulse Accessible Education Fund",
+    "price": "37,825 views",
+    "detail": "Empower the future by supporting EduPulse's campaign to provide accessible education for all. Your investment will help us create educational platforms and tools that bridge gaps and make learning inclusive.",
+    "image": "./r2.png"
+  },
+  {
+    "name": "CleanHarbor Ocean Conservation Initiative",
+    "price": "62,470 views",
+    "detail": "Join CleanHarbor's initiative to protect and preserve our oceans. By contributing to our campaign, you're funding innovative technologies and strategies that combat pollution and ensure a cleaner, healthier marine ecosystem.",
+    "image": "./r3.png"
+  },
+  {
+    "name": "NexTech AI Advancement",
+    "price": "30,542 views",
+    "detail": "Support NexTech in advancing artificial intelligence. Your investment will drive innovation, shaping the future of AI-driven solutions that will revolutionize industries and improve daily life.",
+    "image": "./r1.png"
+  },
+  {
+    "name": "SustainaFuel Green Energy Campaign",
+    "price": "48,921 views",
+    "detail": "Contribute to SustainaFuel's mission to create sustainable energy sources. By participating in our campaign, you're enabling the development of clean and efficient solutions for a greener tomorrow.",
+    "image": "./r2.png"
+  },
+  {
+    "name": "MediConnect Healthcare Access Drive",
+    "price": "25,380 views",
+    "detail": "Be a part of MediConnect's journey to provide accessible healthcare solutions. Your investment will help us create technologies that bridge gaps, making quality medical services available to all.",
+    "image": "./r3.png"
+  },
+  {
+    "name": "TravelNova Space Tourism Initiative",
+    "price": "57,621 views",
+    "detail": "Invest in the future of travel with TravelNova. Our campaign aims to make space tourism a reality. Your contribution will drive innovation in space exploration and open up new horizons for humanity.",
+    "image": "./r1.png"
+  },
+  {
+    "name": "EcoCycle Waste Management Revolution",
+    "price": "39,467 views",
+    "detail": "Join EcoCycle's revolution in waste management. By supporting our campaign, you're funding technologies that redefine recycling and waste reduction, contributing to a cleaner and more sustainable planet.",
+    "image": "./r2.png"
+  },
+  {
+    "name": "ArtiTech Creative Tools Fund",
+    "price": "22,815 views",
+    "detail": "Empower artists and creators with ArtiTech's innovative tools. Invest in our campaign to foster creativity through technology, enabling individuals to produce awe-inspiring content and experiences.",
+    "image": "./r3.png"
+  }
+  
+]
